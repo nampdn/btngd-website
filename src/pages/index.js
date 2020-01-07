@@ -16,31 +16,26 @@ import styles from "./styles.module.css";
 const features = [
   {
     title: <>Nhóm Tế Bào</>,
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
+    imageUrl: "img/undraw_hang_out_h9ud.svg",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Hội Thánh thật sẽ sản sinh những Hội Thánh khác, Cơ Đốc Nhân thật sẽ sản
+        sinh Cơ Đốc Nhân thật khác!
       </>
     )
   },
   {
     title: <>Lan Tỏa Tình Yêu Thương Thật</>,
     imageUrl: "img/undraw_docusaurus_tree.svg",
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    )
+    description: <>Tình yêu thương chẳng hề hư mất bao giờ!</>
   },
   {
     title: <>Môn Đồ Hóa Cho Đấng Christ</>,
-    imageUrl: "img/undraw_docusaurus_react.svg",
+    imageUrl: "img/undraw_book_lover_mkck.svg",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Vậy, hãy đi dạy-dỗ muôn-dân, hãy nhân danh Đức Cha, Đức Con, và Đức
+        Thánh-Linh mà làm phép báp-têm cho họ
       </>
     )
   }
@@ -69,8 +64,14 @@ function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
-      <header className={classnames("hero hero--primary", styles.heroBanner)}>
-        <div className="container">
+      <header
+        className={classnames(
+          "hero hero--primary",
+          styles.heroBanner,
+          styles.containerImage
+        )}
+      >
+        <div className={classnames("container")}>
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={classnames("hero__subtitle", styles.heroTagLine)}>
             {siteConfig.tagline}
@@ -81,9 +82,9 @@ function Home() {
                 "button button--outline button--secondary button--lg",
                 styles.getStarted
               )}
-              to={useBaseUrl("docs/doc1")}
+              to={useBaseUrl("docs/lich-sinh-hoat")}
             >
-              Nhóm Với Chúng Tôi!
+              Nhóm với chúng mình!
             </Link>
           </div>
         </div>

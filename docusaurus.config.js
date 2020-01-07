@@ -22,7 +22,7 @@ module.exports = {
         src: "img/logo.svg"
       },
       links: [
-        { to: "docs/doc1", label: "Tài Liệu", position: "left" },
+        { to: "docs/lich-sinh-hoat", label: "Tài Liệu", position: "left" },
         { to: "blog", label: "Blog", position: "left" },
         // Please keep GitHub link to the right for consistency.
         {
@@ -94,7 +94,8 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/facebook/docusaurus/edit/master/website/"
+          editUrl:
+            "https://github.com/nampdn/btngd-website/edit/master/website/"
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css")

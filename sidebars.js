@@ -7,7 +7,13 @@
 
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-  },
+    "Thông Tin Chính": ["gioi-thieu", "lich-sinh-hoat"],
+    "Tài Liệu": [
+      {
+        type: "category",
+        label: "Nhóm Nhỏ Tế Bào",
+        items: ["nhom-nho-te-bao"]
+      }
+    ]
+  }
 };

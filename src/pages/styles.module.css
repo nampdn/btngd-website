@@ -17,6 +17,19 @@
   overflow: hidden;
 }
 
+.containerImage {
+  background-image: url(/img/banner.jpg);
+  background-position-x: center;
+  background-position-y: -280px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+}
+
+.textGettingStarted {
+  color: "white";
+}
+
 .heroTagLine {
 }
 
