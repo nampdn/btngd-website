@@ -7,7 +7,8 @@
 
 module.exports = {
   title: "BTN Gia Định",
-  tagline: "Nơi lan tỏa tình yêu thương thật, môn đồ hóa cho Đấng Christ",
+  tagline:
+    "Là những nhóm tế bào yêu mến Chúa, là nơi lan tỏa tình yêu thương thật và môn đồ hóa cho Đấng Christ",
   url: "https://btngiadinh.com",
   baseUrl: "/",
   favicon: "img/favicon.ico",
@@ -25,8 +26,8 @@ module.exports = {
         { to: "blog", label: "Blog", position: "left" },
         // Please keep GitHub link to the right for consistency.
         {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
+          href: "https://app.btngiadinh.com",
+          label: "App",
           position: "right"
         }
       ]
@@ -48,43 +49,43 @@ module.exports = {
           ]
         },
         {
-          title: "Community",
+          title: "Hội Thánh",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus"
+              label: "Hội Thánh Tin Lành Việt Nam",
+              href: "https://httlvn.org/"
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus"
+              label: "Chi Hội Gia Định",
+              href: "https://www.facebook.com/hoithanhtinlanhGiaDinh/"
             }
           ]
         },
         {
-          title: "Social",
+          title: "Liên Kết",
           items: [
             {
               label: "Blog",
               to: "blog"
             },
             {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus"
+              label: "Fanpage",
+              href: "https://www.facebook.com/btn.giadinh/"
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus"
+              label: "App Điều Hành Ban Ngành",
+              href: "https://app.btngiadinh.com"
             }
           ]
         }
       ],
-      logo: {
-        alt: "Facebook Open Source Logo",
-        src: "img/oss_logo.png",
-        href: "https://opensource.facebook.com/"
-      },
+      // logo: {
+      //   alt: "Facebook Open Source Logo",
+      //   src: "img/oss_logo.png",
+      //   href: "https://opensource.facebook.com/"
+      // },
       // Please do not remove the credits, help to publicize Docusaurus :)
-      copyright: `Copyright © ${new Date().getFullYear()} BTN Gia Định. Built with Docusaurus.`
+      copyright: `Copyright © ${new Date().getFullYear()} BTN Gia Định.`
     }
   },
   presets: [
