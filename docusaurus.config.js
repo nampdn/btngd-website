@@ -6,100 +6,99 @@
  */
 
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  title: "BTN Gia Định",
+  tagline: "Nơi lan tỏa tình yêu thương thật, môn đồ hóa cho Đấng Christ",
+  url: "https://btngiadinh.com",
+  baseUrl: "/",
+  favicon: "img/favicon.ico",
+  organizationName: "nampdn", // Usually your GitHub org/user name.
+  projectName: "btngd-website", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Facebook Project',
+      title: "BTN Gia Định",
       logo: {
-        alt: 'My Facebook Project Logo',
-        src: 'img/logo.svg',
+        alt: "My Facebook Project Logo",
+        src: "img/logo.svg"
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: "docs/doc1", label: "Tài Liệu", position: "left" },
+        { to: "blog", label: "Blog", position: "left" },
         // Please keep GitHub link to the right for consistency.
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
+          href: "https://github.com/facebook/docusaurus",
+          label: "GitHub",
+          position: "right"
+        }
+      ]
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Tài Liệu",
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: "Nhóm Nhỏ",
+              to: "docs/doc1"
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
-            },
-          ],
+              label: "Học Kinh Thánh",
+              to: "docs/doc2"
+            }
+          ]
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: "Stack Overflow",
+              href: "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-          ],
+              label: "Discord",
+              href: "https://discordapp.com/invite/docusaurus"
+            }
+          ]
         },
         {
-          title: 'Social',
+          title: "Social",
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: "Blog",
+              to: "blog"
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: "GitHub",
+              href: "https://github.com/facebook/docusaurus"
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
+              label: "Twitter",
+              href: "https://twitter.com/docusaurus"
+            }
+          ]
+        }
       ],
       logo: {
-        alt: 'Facebook Open Source Logo',
-        src: 'img/oss_logo.png',
-        href: 'https://opensource.facebook.com/',
+        alt: "Facebook Open Source Logo",
+        src: "img/oss_logo.png",
+        href: "https://opensource.facebook.com/"
       },
       // Please do not remove the credits, help to publicize Docusaurus :)
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`,
-    },
+      copyright: `Copyright © ${new Date().getFullYear()} BTN Gia Định. Built with Docusaurus.`
+    }
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+          sidebarPath: require.resolve("./sidebars.js"),
+          editUrl: "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      },
-    ],
-  ],
+          customCss: require.resolve("./src/css/custom.css")
+        }
+      }
+    ]
+  ]
 };
