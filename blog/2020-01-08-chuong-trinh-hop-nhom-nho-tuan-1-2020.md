@@ -13,11 +13,11 @@ Mỗi buổi họp nhóm nhỏ sẽ có 3 phần chính: phá băng, gây dựng
 
 Dưới đây là những gợi ý cho các bạn tham khảo và chuẩn bị cho buổi gặp gỡ đầu tiên. 
 Tuy vậy, với mỗi thành viên trong nhóm nhỏ, sinh trưởng trong mỗi gia đình với mỗi văn hóa rất khác biệt nhau.
-Nên các bạn hãy `chế` lại các hoạt động dưới đây sao cho phù hợp với những thành viên trong nhóm bạn.
+Nên các bạn hãy _chế_ lại các hoạt động dưới đây sao cho phù hợp với những thành viên trong nhóm bạn nhé.
 
 ## Phần 1: Phá băng (15-20 phút)
 
-> Lưu ý: Phần này chỉ dành cho nhóm có người mới!
+> Lưu ý: Phần này chỉ dành cho nhóm có người mới! Các nhóm không có người mới có thể bỏ qua phần này để dành nhiều thời gian cho phần 2.
 
 ### Hoạt động đơn giản
 
@@ -46,15 +46,14 @@ Tạo cam kết, cho mỗi bạn đều thấy mình có thể thuộc về nhó
 ### Triển khai:
 
 - Phát giấy sticker & bút cho từng bạn.
-- Cho mỗi bạn ghi xuống **một điều mình mong ước nhóm mình sẽ cùng nhau đạt được** trong năm nay.
-    - Gợi ý:
-        - Đi trễ hoặc nghỉ phải báo với nhóm trưởng.
-        - Cùng đọc xong 1 phân đoạn Kinh Thánh.
-        - Mỗi tháng cùng nhau đi ăn ngoài 1 lần.
-        - Xem nhau như là anh em trong gia đình.
-        - vân vân... mây mây...
+- Cho mỗi bạn ghi xuống **một điều mình mong ước nhóm mình sẽ cùng nhau đạt được** trong năm nay. Bên dưới là 1 số gợi ý.
+      - Đi trễ hoặc nghỉ phải báo với nhóm trưởng.
+      - Cùng đọc xong 1 phân đoạn Kinh Thánh.
+      - Mỗi tháng cùng nhau đi ăn ngoài 1 lần.
+      - Xem nhau như là anh em trong gia đình.
+      - vân vân... mây mây...
 - Bạn nào ghi xong thì dán giấy sticker đó lên tờ giấy A3 và chờ các bạn còn lại.
-- Sau khi tất cả mọi người đều dán lên tờ giấy A4, cả nhóm cùng tổng hợp lại và chọn **3 điều** mà đa số các bạn đều muốn thực hiện.
+- Sau khi tất cả mọi người đều dán lên tờ giấy A3, cả nhóm cùng tổng hợp lại và chọn **3 điều** mà đa số các bạn đều muốn thực hiện.
     - Với mỗi điều mong ước, các bạn cần chốt lại trong quý 1 mình sẽ điều nào trước, và hai quý còn lại sẽ làm điều gì tiếp theo.
     - Khi cả nhóm đều đồng ý, hãy cùng nhau cầu nguyện chung xin Chúa hướng dẫn nhóm nhỏ.
 
@@ -69,3 +68,7 @@ Các bước triển khai:
 - Sau khi chia sẻ ngắn, hãy cùng nhau cầu nguyện cho nhau những điều đó.
 
 > Ngòi nổ: là một câu hỏi hay một chủ đề được nhóm trưởng đưa ra để "kích hoạt" chế độ chia sẻ của các bạn trong một phạm vi nhỏ 2-3 người với nhau, từ đó câu chuyện có thể lan ra những khía cạnh khác của đời sống thuộc linh.
+
+_Chúc các bạn có thời gian ý nghĩa và chất lượng với nhóm nhỏ của mình!_
+
+Nhật Nam
