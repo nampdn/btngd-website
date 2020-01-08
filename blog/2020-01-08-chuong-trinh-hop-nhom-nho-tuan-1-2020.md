@@ -8,6 +8,8 @@ author_image_url: https://avatars1.githubusercontent.com/u/26531658?s=460&v=4
 tags: [nhomnho, tebao, hopnhom]
 ---
 
+![hinh-nhom-nho](https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3289&q=80)
+
 Để thời gian họp nhóm nhỏ được chất lượng, chúng ta (nhóm trưởng) cần có kế hoạch chuẩn bị trước khi gặp nhóm mình.
 Mỗi buổi họp nhóm nhỏ sẽ có 3 phần chính: phá băng, gây dựng, cầu nguyện.
 
