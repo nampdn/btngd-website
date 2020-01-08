@@ -6,7 +6,7 @@
  */
 
 module.exports = {
-  title: "BTN Gia Định",
+  title: "Ban Thanh Niên Gia Định",
   tagline:
     "Là những nhóm tế bào yêu mến Chúa, là nơi lan tỏa tình yêu thương thật và môn đồ hóa cho Đấng Christ",
   url: "https://btngiadinh.com",
@@ -16,7 +16,7 @@ module.exports = {
   projectName: "btngd-website", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "BTN Gia Định",
+      title: "Ban Thanh Niên Gia Định",
       logo: {
         alt: "My Facebook Project Logo",
         src: "img/logo.svg"

@@ -20,10 +20,34 @@
 .containerImage {
   background-image: url(/img/banner.jpg);
   background-position-x: center;
-  background-position-y: -280px;
+  background-position-y: -420px;
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: multiply;
+}
+
+@media screen and (min-width: 1441px) {
+  .containerImage {
+    background-position-y: -1000px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .containerImage {
+    background-position-y: -170px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .containerImage {
+    background-position-y: -100px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .containerImage {
+    background-position-y: 0;
+  }
 }
 
 .textGettingStarted {

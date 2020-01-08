@@ -74,7 +74,14 @@ function Home() {
         <div className={classnames("container")}>
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={classnames("hero__subtitle", styles.heroTagLine)}>
-            {siteConfig.tagline}
+            <p>
+              là những nhóm tế bào,
+              <br />
+              yêu mến và vâng lời Chúa,
+              <br /> là nơi lan tỏa
+              <br /> tình yêu thương thật
+              <br /> và môn đồ hóa cho Đấng Christ
+            </p>
           </p>
           <div className={styles.buttons}>
             <Link
