@@ -1,6 +1,6 @@
 ---
 id: chuong-trinh-hop-nhom-nho-tuan-1-2020
-title: Chương trình họp nhóm nhỏ tuần 1
+title: Họp nhóm nhỏ tuần 1
 author: Nam Pham
 author_title: Ủy viên nhóm nhỏ @ BTN Gia Định
 author_url: https://twitter.com/_nampdn
