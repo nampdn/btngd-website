@@ -49,11 +49,11 @@ Tạo cam kết, cho mỗi bạn đều thấy mình có thể thuộc về nhó
 
 - Phát giấy sticker & bút cho từng bạn.
 - Cho mỗi bạn ghi xuống **một điều mình mong ước nhóm mình sẽ cùng nhau đạt được** trong năm nay. Bên dưới là 1 số gợi ý.
-      - Đi trễ hoặc nghỉ phải báo với nhóm trưởng.
-      - Cùng đọc xong 1 phân đoạn Kinh Thánh.
-      - Mỗi tháng cùng nhau đi ăn ngoài 1 lần.
-      - Xem nhau như là anh em trong gia đình.
-      - vân vân... mây mây...
+    - Đi trễ hoặc nghỉ phải báo với nhóm trưởng.
+    - Cùng đọc xong 1 phân đoạn Kinh Thánh.
+    - Mỗi tháng cùng nhau đi ăn ngoài 1 lần.
+    - Xem nhau như là anh em trong gia đình.
+    - vân vân... mây mây...
 - Bạn nào ghi xong thì dán giấy sticker đó lên tờ giấy A3 và chờ các bạn còn lại.
 - Sau khi tất cả mọi người đều dán lên tờ giấy A3, cả nhóm cùng tổng hợp lại và chọn **3 điều** mà đa số các bạn đều muốn thực hiện.
     - Với mỗi điều mong ước, các bạn cần chốt lại trong quý 1 mình sẽ điều nào trước, và hai quý còn lại sẽ làm điều gì tiếp theo.
