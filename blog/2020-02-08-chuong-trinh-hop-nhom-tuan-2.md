@@ -35,7 +35,7 @@ tags: [nhom-nho, te-bao, hop-nhom]
     - Thói quen.
 - Đưa mẫu câu như sau:
 > **"Trước đây mình thường nghĩ là... Nhưng bây giờ mình mới biết là..."**
-
+- Tăng độ khó: yêu cầu các bạn phải nói một điều mà những người còn lại trong nhóm phần lớn chưa biết.
 
 ### Ví dụ:
 
