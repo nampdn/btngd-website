@@ -14,6 +14,7 @@ tags: [nhom-nho, te-bao, hop-nhom, game]
 ### ⭐Chuẩn bị: 
     - Bảng mê cung. (Nhóm Huy sẽ cbi sẵn cho mỗi nhóm 5 bảng)
     - Giấy, bút. (Các nhóm tự cbi)
+![bang-me-cung](/img/blogs/bang-me-cung.png)
 
 ## Phần 1: Trò chơi mê cung (10p):
   - Mỗi cặp 2 người sẽ được phát 1 bảng mê cung. (Tuỳ theo số lượng thành viên của mỗi nhóm mà nhóm trưởng sẽ phân cặp, mỗi nhóm đều có 5 bảng mê cung)
