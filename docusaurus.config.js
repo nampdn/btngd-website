@@ -16,7 +16,7 @@ module.exports = {
   projectName: "btngd-website", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "Ban Thanh Niên Gia Định",
+      title: "BTNGĐ",
       logo: {
         alt: "My Facebook Project Logo",
         src: "img/logo.svg"
