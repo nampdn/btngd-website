@@ -1,7 +1,7 @@
 ---
 id: chuong-trinh-hop-nhom-nho-tuan-4-2020
 title: Họp nhóm nhỏ tuần 4 - 2020
-author: Nhất Huy
+author: Nhất Huy, 
 author_title: Nhóm trưởng
 tags: [nhom-nho, te-bao, hop-nhom, game]
 ---
@@ -19,7 +19,8 @@ tags: [nhom-nho, te-bao, hop-nhom, game]
   - Mỗi cặp 2 người sẽ được phát 1 bảng mê cung. (Tuỳ theo số lượng thành viên của mỗi nhóm mà nhóm trưởng sẽ phân cặp, mỗi nhóm đều có 5 bảng mê cung)
   - Các bạn sẽ tìm đường đi xuyên qua mê cung đó, ai đến trước thì chiến thắng.
   - Đội chiến thắng nêu ý nghĩa của trò chỏi mà mình nhận được.
-  **Ý nghĩa gợi ý: Có nhiều con đường để đi, nhưng chỉ có 1 con đường đến thiên đàng.
+
+> Ý nghĩa gợi ý: Có nhiều con đường để đi, nhưng chỉ có 1 con đường đến thiên đàng.
 
 ## Phần 2: Gây dựng (20-25 phút)
 
