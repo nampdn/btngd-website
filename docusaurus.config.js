@@ -6,7 +6,7 @@
  */
 
 module.exports = {
-  title: "Ban Thanh Niên Gia Định",
+  title: "BTNGĐ",
   tagline:
     "Là những nhóm tế bào yêu mến Chúa, là nơi lan tỏa tình yêu thương thật và môn đồ hóa cho Đấng Christ",
   url: "https://btngiadinh.com",
