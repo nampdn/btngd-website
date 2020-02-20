@@ -1,8 +1,8 @@
 ---
 id: chuong-trinh-hop-nhom-nho-tuan-4-2020
 title: Họp nhóm nhỏ tuần 4 - 2020
-author: Nhất Huy, 
-author_title: Nhóm trưởng
+author: Nhất Huy (9), Tuấn Tiến (7) và Ngọc Bích (13)
+author_title: Lê Vũ Văn Phi (cố vấn)
 tags: [nhom-nho, te-bao, hop-nhom, game]
 ---
 
