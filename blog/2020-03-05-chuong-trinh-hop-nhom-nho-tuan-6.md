@@ -12,7 +12,11 @@ tags: [nhom-nho, te-bao, hop-nhom]
 
 > Phần 2, 3 là phần bắt buộc phải có trong giờ họp nhóm nhỏ Cơ Đốc.
 
-## Phần 1: Kết nối (10p):
+## Phần 1: ĐOÁN Ý ĐỒNG ĐỘI (10p):
+
+### Tóm tắt: 
+
+Vẻ đẹp của người nữ Đức Chúa Trời là "trang sức bề trong giấu ở trong lòng”. Bằng việc mô tả tính cách qua hành động và lời nói của đồng đội, bạn sẽ hiểu được những đức tính đẹp lòng Chúa ở một người nữ. 
 
 ### Luật chơi:  
 
@@ -34,7 +38,11 @@ Dịu dàng, nữ tính, khôn ngoan, nết na, đảm đang, tin kính, tinh t�
 
 Giúp các bạn hiểu được đức tính của người nữ đẹp lòng Chúa, tuy nhiên đôi lúc chúng ta cũng dễ để cho cảm xúc dẫn dắt và có những đức tính không đẹp lòng Chúa, mong rằng các bạn sẽ hiểu được những đức tính tốt đó là những đức tính giá trị, nếp sống đẹp mà Chúa muốn chúng ta luôn ghi nhớ và vâng lời Ngài. 
   
-## Phần 2: Gây dựng (20-25 phút)
+## Phần 2: HIỂU VÀ HÀNH ĐỘNG (20-25 phút)
+
+#### Tóm tắt:
+
+Hiểu được khó khăn của những người nữ sẽ gặp trong cuộc đời, và các bạn nam trong nhóm cũng sẽ có cơ hội để hành động chia sẻ những khó khăn với các bạn nữ trong nhóm qua hành động cụ thể. 
 
 #### Luật chơi:  
 
