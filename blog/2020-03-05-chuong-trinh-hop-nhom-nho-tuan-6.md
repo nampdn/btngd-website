@@ -1,9 +1,9 @@
 ---
-id: chuong-trinh-hop-nhom-nho-tuan-5-2020
-title: Họp nhóm nhỏ tuần 5 - 2020
-author: Hồng Thủy, Minh Phát, Trần Khả
-author_title: Phạm Dương Nhật Nam (cố vấn)
-tags: [nhom-nho, te-bao, hop-nhom, icebreaker]
+id: chuong-trinh-hop-nhom-nho-tuan-6-2020
+title: Họp nhóm nhỏ tuần 6 - 2020
+author: Anh Thư, Ngọc Bửu, Huyền Trâm
+author_title: Phan Nguyễn Công Chính (cố vấn)
+tags: [nhom-nho, te-bao, hop-nhom]
 ---
 
 ![hinh-nhom-nho](https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3289&q=80)
@@ -12,41 +12,50 @@ tags: [nhom-nho, te-bao, hop-nhom, icebreaker]
 
 > Phần 2, 3 là phần bắt buộc phải có trong giờ họp nhóm nhỏ Cơ Đốc.
 
-## Phần 1: Trò chơi Bóng Đèn (10p):
+## Phần 1: Kết nối (10p):
 
-#### Tóm tắt:
-Bóng đèn có lúc tắt lúc sáng, tùy thuộc việc đèn sáng hay tắt mà cho nhau biết các hoạt động trong ngày.
+### Luật chơi:  
 
-#### Các bước triển khai:
-- Quản trò sẽ bắt đầu bằng cách nói "sáng" và chia sẻ về hoạt động bạn làm buổi sáng.
+Đoán đức tính tốt và xấu của một người nữ bằng lời nói, hành động. Không dùng ngôn ngữ khác, không dùng từ láy, nói phạm 1 từ sẽ không được tính. 
 
-- Sau đó, quản trò mời 1 bạn khác bất kỳ và (nói tối hoặc sáng) bạn bất kỳ sẽ nói về 1 hoạt động bạn làm buổi tối/sáng.
+Chia nhóm làm 2, nhóm trưởng để trên bàn các lá thăm ngẫu nhiên của đức tính, mỗi nhóm cử 1 người lên gặp nhóm trưởng. 
 
-- Cứ như vậy bạn nào nói xong sẽ chỉ định bạn khác cho đến khi các bạn trong nhóm đều được mời.
+Oẳn tù tì để chọn ra người bốc thăm, sau khi người thăng bốc lá thăm, cả 2 người của 2 nhóm đều cùng mô tả tính từ trong lá thăm, nhóm nào trả lời nhiều và đúng và nhanh hơn thì chiến thắng. 
 
-> **Lưu ý:** đèn không được tối 3 lần hoặc sáng 3 lần liên tiếp.
+#### ĐỨC TÍNH TỐT:  
 
-> Nhóm trưởng cần giới hạn thời gian nói của từng bạn để mọi người đều được nói.
+Dịu dàng, nữ tính, khôn ngoan, nết na, đảm đang, tin kính, tinh tế, thấu hiểu, hy sinh, nhịn nhục, mềm mại.  
+
+#### ĐỨC TÍNH XẤU:  
+
+Đỏng đảnh, hung dữ, ghen tuông, chi li, ganh tị, giả tạo, khó hiểu, dễ giận, soi mói, nhiều chuyện, thù vặt. 
+
+#### Đúc kết:  
+
+Giúp các bạn hiểu được đức tính của người nữ đẹp lòng Chúa, tuy nhiên đôi lúc chúng ta cũng dễ để cho cảm xúc dẫn dắt và có những đức tính không đẹp lòng Chúa, mong rằng các bạn sẽ hiểu được những đức tính tốt đó là những đức tính giá trị, nếp sống đẹp mà Chúa muốn chúng ta luôn ghi nhớ và vâng lời Ngài. 
   
 ## Phần 2: Gây dựng (20-25 phút)
 
-Triển khai hoạt động: **"Cảm tạ Chúa"**
+#### Luật chơi:  
 
-#### Tóm tắt
-Ghi điều cảm tạ Chúa xuống giấy và cho nhau đoán.
+Chia nhóm làm 2, mỗi nhóm có 5s để liệt kê càng nhiều khó khăn càng tốt, không được trùng lặp nhau. 
 
-#### Các bước triển khai:
+#### Câu hỏi: 
 
-- Mỗi bạn ghi vào tờ giấy 2 điều giá trị mà bạn cảm tạ Chúa.
-- Cho Bốc thăm (có thể chia ra tuỳ theo mỗi nhóm), mỗi bạn sẽ bốc thăm 1 tờ giấy của bạn khác bất kì
-- Sau đó mỗi bạn sẽ ghi ra tên của bạn mà mình nghĩ là chủ của tờ giấy đó.
-- Lần lượt các bạn sẽ nói tờ giấy mình đã thăm là của ai , nếu đoán đúng thì bạn bị đoán đúng sẽ nói 1 điều mà bạn ấn tượng đối với bạn đã đoán.
-- Còn nếu đoán sai, thì bạn bốc thăm sẽ phải nói một điều mà bạn ấn tượng về một bạn bất kỳ trong nhóm.
-- Sau đó chủ nhân các tờ giấy còn lại chưa được đoán trúng sẽ nhận lại tờ giấy mình đã ghi và chia sẻ về điều mình đã ghi trong tờ giấy đó
+LIỆT KÊ NHỮNG KHÓ KHĂN MÀ NGƯỜI NỮ SẼ GẶP TRONG CUỘC ĐỜI?  
 
-> Đúc kết: Bạn có nhận biết được những ơn phước Chúa ban trên đời sống mình và cách đáp ứng với những điều đó? (đáp ứng với ân điển).
+#### Hành động cam kết sau trò chơi:  
 
-* Cuối giờ các nhóm trưởng xuống gặp Trần Khả để nhận giấy.
+Sau khi chia sẻ phần gây dựng, mỗi bạn nữ trong nhóm sẽ nói ra điều mình mong muốn được các bạn nam giúp đỡ trong tuần kế tiếp. 
+
+Các bạn nam trong nhóm sẽ chủ động để giúp đỡ/ hoặc có thể đưa ra đề nghị của bản thân để giúp đỡ các bạn nữ trong nhóm. 
+
+Ví dụ: Mỗi tối gửi câu gốc khích lệ và kèm lời chúc ngủ ngon/ Hỏi thăm về 1 ngày của bạn nữ, những khó khăn cần được giúp đỡ/ cầu thay của bạn đó là gì…. 
+
+#### Đúc kết: 
+
+Giúp các bạn biết đến những khó khăn của người nữ, ao ước qua trò chơi các bạn sẽ có sự quan tâm và chia sẻ những khó khăn đó với những người bạn, người nữ chúng ta yêu quý bằng cả tấm lòng của bạn. 
+
 
 ## Cầu nguyện: (10-15 phút)
 
@@ -56,4 +65,9 @@ Ghi điều cảm tạ Chúa xuống giấy và cho nhau đoán.
 - Cho các bạn chia sẻ với nhau trong phạm vi chỉ 2-3 người với nhau trong vòng **5-10 phút** trước khi cầu nguyện.
 - **Ngòi nổ** để chia sẻ:
 
-Dạo này bạn hay tìm kiếm điều gì trên mạng? (Google, Facebook, Instagram...)
+**NGƯỜI NỮ ẢNH HƯỞNG ĐỨC TIN CỦA BẠN NHIỀU NHẤT LÀ AI? CỤ THỂ QUA VIỆC GÌ? **
+
+
+Chúc các bạn có một buổi họp nhóm ý nghĩa!
+
+![nhom-nho](https://i.imgur.com/lpnU3vQ.jpg)
