@@ -63,3 +63,5 @@ Cho mọi người trao đổi với nhau theo các ý sau đây:
 3. Hãy dành thời gian cảm tạ, cầu nguyện cho các nhu cầu, cho Hội Thánh, ban Thanh niên, nhóm nhỏ và những người chưa tin Chúa.
 
 Gợi ý: nên chia nhóm nhỏ ra các tiểu đội thảo luận riêng để đạt hiệu quả cao trong việc chia sẻ và cầu nguyện.
+
+Chúc các bạn có một ngày Chúa Nhật tuy xa nhưng lại thật gần Chúa và gần nhau!
