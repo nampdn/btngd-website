@@ -52,9 +52,9 @@ Nhóm trưởng đọc lời dẫn: Chúng ta tôn vinh Vua Giê-xu khi chúng t
 
 Cho mọi người trao đổi với nhau theo các ý sau đây:
 
-1. Khi nhìn lại đức tin của mình, những ai là cha mẹ trở thành khí cụ giúp trong sự tái sanh thuộc linh của bạn? (nếu bạn chưa đặt lòng tin nơi Chúa, ai đang giúp cho bạn hiểu rõ những thắc mắc/hoặc những nghi ngờ?)
-2. Kiểm điểm lại những ảnh hưởng xung quanh, ai là cha mẹ tin thần của bạn? Khi kêu gọi người khác “hãy bắt chước tôi” tác động thế nào trong tinh thần môn đồ hoá của bạn?
-3. Ai là người bạn/hoặc người thân trong gia đình bạn đang sống như kẻ thù của Đấng Christ, ai là người cần được nghe về Tin Lành từ bạn?
+1. Khi nhìn lại đức tin của mình, ai là người trưởng dưỡng thuộc linh (người nâng đỡ đức tin) của bạn? (nếu bạn chưa đặc lòng tin nơi Chúa, ai đang giúp cho bạn hiểu rõ những thắc mắc/hoặc những nghi ngờ?)
+2. Kiểm điểm lại những ảnh hưởng xung quanh, ai là người nâng đỡ tinh thần của bạn? Để có thể kêu gọi người khác rằng “hãy bắt chước tôi, như chính mình tôi bắt chước Đấng Christ” giúp bạn có thái độ sống cần có như thế nào để ảnh hưởng Đấng Christ cho người khác?
+3. Ai là người bạn/hoặc người thân trong gia đình bạn đang sống như kẻ thù của Đấng Christ (chống đối, bắt bớ với niềm tin của bạn), ai là người cần được nghe về Tin Lành từ bạn?
 
 ## 4. Nối kết với nhau:
 
