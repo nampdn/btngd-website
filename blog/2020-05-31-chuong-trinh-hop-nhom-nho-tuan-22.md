@@ -1,0 +1,53 @@
+---
+id: chuong-trinh-hop-nhom-nho-co-doc-tuan-22-2020
+title: Họp nhóm nhỏ Cơ Đốc (tuần 22 - 2020)
+author:  Hồng Thuỷ, Minh Phát, Trần Khả
+author_title: Phạm Dương Nhật Nam (cố vấn)
+tags: [nhom-nho, te-bao, hop-nhom, tro-choi, thi-cu]
+---
+
+![hinh-nhom-nho](https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3289&q=80)
+
+> Những ý tưởng dưới đây chỉ mang tính chất tham khảo, bạn hoàn toàn có thể sáng tạo thêm cho phù hợp với nhóm nhỏ của mình!
+
+> Phần 2, 3 là phần bắt buộc phải có trong giờ họp nhóm nhỏ Cơ Đốc.
+
+## Phần 1: Kỉ Niệm Xưa (15p):
+
+### Tóm tắt: 
+
+Chia sẻ lần lượt mỗi bạn có 1 phút 30 giây, về kỉ niệm bị giật điện. 
+
+—> Giống việc giữ đời sống thánh khiết, khi bạn bị giật điện bạn sẽ rút kinh nghiệm để không bị giật chỗ cũ nữa, cũng như vậy bạn không thể mãi miệt mài trong những tội lỗi cũ.
+
+
+## Phần 2: Thử Thách Thanh Tẩy (20-25 phút)
+
+Chia nhóm nhỏ ra làm 2 đội, bắt đầu tính giờ trong vòng 2 phút để các bạn tìm cách giải một thử thách sau:
+
+Mini game: 
+- Chuẩn bị 2 ly nước đục màu (nhận cuối giờ nhóm).
+- Quản trò sẽ hỏi các bạn làm sao để làm cho ly nước trong lại mà không được chạm vào ly nước.
+- Kết thúc 2 phút, nếu chưa có nhóm nào làm được, quản trò sẽ giải đáp.
+ - Để biết lời giải: khi đến nhận dụng cụ người chuẩn bị dụng cụ sẽ đưa lời giải cho riêng quản trò.
+
+### Mục đích:
+Dùng thị cụ để các bạn ấn tượng việc đời sống thánh khiết cũng như ví dụ minh hoạ. (Cuối giờ nhóm thanh niên sẽ gợi ý lời giải & đúc kết cho các bạn).
+
+### Đúc kết:
+Những điều bạn xem, nghe, suy nghĩ sẽ khiến bạn bị chi phối tâm trí. Vì thế cho nên khi mỗi cá nhân tin nhận Chúa, chúng ta sẽ ngày càng được biến đổi giống Chúa mỗi ngày.
+
+## Cầu nguyện: (10-15 phút)
+
+> Lưu ý: Đây là hoạt động cần thiết không nên bỏ qua trong giờ họp nhóm nhỏ!
+
+- Chia ra từng cặp từ 2-3 người.
+- Cho các bạn chia sẻ với nhau trong phạm vi chỉ 2-3 người với nhau trong vòng **5-10 phút** trước khi cầu nguyện.
+- **Ngòi nổ** để chia sẻ:
+
+**Ngoài những khung giờ phải làm như học tập và làm việc thì khoảng thời gian rảnh còn lại bạn sẽ làm gì?**
+
+
+Chúc các bạn có một buổi họp nhóm ý nghĩa!
+
+![nhom-nho-co-doc](https://i.imgur.com/CG13tIh.jpg)
