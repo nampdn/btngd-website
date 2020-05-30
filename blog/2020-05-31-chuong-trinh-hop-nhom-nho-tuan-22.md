@@ -73,7 +73,7 @@ GỢI Ý MẬT THƯ:
 Tháng nào anh đã sinh ra,
 Trước Chúa trăm năm Rô ma thật bành.
 Giao thương buôn bán mặt anh,
-Khi xưa họ thử trả mánh cho Ngài.
+Khi xưa họ thử đủ mánh cho Ngài.
 ```
 
 ### Phần thưởng:
