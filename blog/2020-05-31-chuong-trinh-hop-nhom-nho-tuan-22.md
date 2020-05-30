@@ -1,6 +1,6 @@
 ---
 id: chuong-trinh-hop-nhom-nho-co-doc-tuan-22-2020
-title: Họp nhóm nhỏ Cơ Đốc (tuần 22 - 2020)
+title: Giữ Đời Sống Thánh Khiết - Họp nhóm nhỏ Cơ Đốc (tuần 22 - 2020)
 author:  Hồng Thuỷ, Minh Phát, Trần Khả
 author_title: Phạm Dương Nhật Nam (cố vấn)
 tags: [nhom-nho, te-bao, hop-nhom, tro-choi, thi-cu]
@@ -35,7 +35,7 @@ Mini game:
 Dùng thị cụ để các bạn ấn tượng việc đời sống thánh khiết cũng như ví dụ minh hoạ. (Cuối giờ nhóm thanh niên sẽ gợi ý lời giải & đúc kết cho các bạn).
 
 ### Đúc kết:
-Những điều bạn xem, nghe, suy nghĩ sẽ khiến bạn bị chi phối tâm trí. Vì thế cho nên khi mỗi cá nhân tin nhận Chúa, chúng ta sẽ ngày càng được biến đổi giống Chúa mỗi ngày.
+Những điều bạn xem, nghe, suy nghĩ sẽ khiến bạn bị chi phối tâm trí. Vì vậy chúng ta cần cẩn trọng trong mọi thứ mình đưa vào tâm trí mỗi ngày như phim ảnh, game, nội dung giải trí, và rất nhiều điều bất khiết khác, để mỗi ngày chúng ta sẽ sống giống Chúa hơn.
 
 ## Cầu nguyện: (10-15 phút)
 
