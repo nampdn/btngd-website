@@ -12,7 +12,7 @@ tags: [nhom-nho, te-bao, hop-nhom, tro-choi, thi-cu]
 
 > Phần 2, 3 là phần bắt buộc phải có trong giờ họp nhóm nhỏ Cơ Đốc.
 
-## Phần 1: Kỉ Niệm Xưa (15p):
+## Phần 1: Kỉ Niệm Xưa (15-20p)
 
 ### Tóm tắt: 
 
@@ -21,7 +21,7 @@ Chia sẻ lần lượt mỗi bạn có 1 phút 30 giây, về kỉ niệm bị 
 —> Giống việc giữ đời sống thánh khiết, khi bạn bị giật điện bạn sẽ rút kinh nghiệm để không bị giật chỗ cũ nữa, cũng như vậy bạn không thể mãi miệt mài trong những tội lỗi cũ.
 
 
-## Phần 2: Thử Thách Thanh Tẩy (20-25 phút)
+## Phần 2: Thử Thách Thanh Tẩy (10-15 phút)
 
 Chia nhóm nhỏ ra làm 2 đội, bắt đầu tính giờ trong vòng 2 phút để các bạn tìm cách giải một thử thách sau:
 
@@ -49,7 +49,7 @@ Những điều bạn xem, nghe, suy nghĩ sẽ khiến bạn bị chi phối t�
 
 ## ĐẶC BIỆT!!! Thử Thách Dành Cho Nhóm Nhỏ:
 
-Đây là tiết mục mới trong nhóm nhỏ, dành cho những nhóm còn nhiều thời gian trong khi họp nhóm hoặc cùng giải với nhau trong tuần.
+Đây là tiết mục mới (khuyến khích thực hiện nhưng không bắt buộc) trong nhóm nhỏ, dành cho những nhóm còn nhiều thời gian trong khi họp nhóm hoặc cùng giải với nhau trong tuần.
 
 #### Mục đích:
 
