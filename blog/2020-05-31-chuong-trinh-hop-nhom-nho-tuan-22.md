@@ -47,6 +47,34 @@ Những điều bạn xem, nghe, suy nghĩ sẽ khiến bạn bị chi phối t�
 
 **Ngoài những khung giờ phải làm như học tập và làm việc thì khoảng thời gian rảnh còn lại bạn sẽ làm gì?**
 
+## ĐẶC BIỆT!!! Thử Thách Dành Cho Nhóm Nhỏ:
+
+Đây là tiết mục mới trong nhóm nhỏ, dành cho những nhóm còn nhiều thời gian trong khi họp nhóm hoặc cùng giải với nhau trong tuần.
+
+#### Mục đích:
+
+Để nhóm có hoạt động team building cùng nhau giải đố, tương tác, làm việc với nhau khi gặp nhau hoặc kết nối với nhau khi ở nhà trong tuần.
+
+#### Cách thức triển khai:
+
+Nhóm trưởng sẽ triển khai câu đố về cho nhóm mình cùng giải sau giờ họp nhóm, khi đi cafe, hoặc khi ở nhà.
+Các bạn cũng có thể hẹn gặp nhau thêm một buổi nào đó bất kỳ để hỏi thăm cũng như cùng giải đố.
+
+### Thời gian:
+
+Từ ngày 31/05 đến hết ngày 07/06
+
+### Nội dung:
+
+MẬT THƯ: **`YVTHKVHUTBVPZHBJHBTBVPJOPU`**
+
+GỢI Ý: **`Julius Caesar sinh tháng mấy?`**
+
+### Phần thưởng:
+
+- Nhóm giải đáp được câu đố gửi về sớm nhất cho Nam sẽ được một phần thưởng hấp dẫn cho cả nhóm! (Phần thưởng sẽ được trao trong tuần tiếp theo.)
+- Khi giải được mật thư vui lòng gửi câu trả lời về cho Nam ở trên team hoặc địa chỉ email: `nampdn@trustinj.trade`
+
 
 Chúc các bạn có một buổi họp nhóm ý nghĩa!
 
