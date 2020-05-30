@@ -68,7 +68,13 @@ Từ ngày 31/05 đến hết ngày 07/06
 
 MẬT THƯ: **`YVTHKVHUTBVPZHBJHBTBVPJOPU`**
 
-GỢI Ý: **`Julius Caesar sinh tháng mấy?`**
+GỢI Ý MẬT THƯ:
+```
+Tháng nào anh đã sinh ra,
+Trước Chúa trăm năm Rô ma thật bành.
+Giao thương buôn bán mặt anh,
+Khi xưa họ thử trả mánh cho Ngài.
+```
 
 ### Phần thưởng:
 
