@@ -106,5 +106,6 @@ Ca ngợi danh Ngài đến đời đời vô cùng”
 
 ## SOURCE:
 * [Blessed Assurance Hymn Story and Lyrics](https://www.christianmusicandhymns.com/2016/08/blessed-assurance.html?m=1)
+* [hymnary.org](https://hymnary.org/text/blessed_assurance_jesus_is_mine)
 * Sách "Ngọn lửa thánh nhạc"
 * Sách "Psalter Hymnal Handbook"
