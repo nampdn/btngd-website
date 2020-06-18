@@ -1,8 +1,8 @@
 ---
 id: thanh-ca-tin-lanh-nay-la-truyen-ky-toi-blessed-assurance
 title: NẦY LÀ TRUYỆN KÝ TÔI (Blessed Assurance)
-author: Nguyễn Hữu Thiên Nhân (Sưu Tầm)
-author_title: Fanny Crosby
+author_title: Nguyễn Hữu Thiên Nhân (Sưu Tầm)
+author: Fanny Crosby
 tags: [thanh-ca, fanny-crosby]
 ---
 
