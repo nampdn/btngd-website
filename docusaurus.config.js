@@ -45,6 +45,10 @@ module.exports = {
             {
               label: "Học Kinh Thánh",
               to: "docs/doc2"
+            },
+            {
+              label: "Thánh Ca Tin Lành",
+              to: "docs/thanh-ca"
             }
           ]
         },
