@@ -1,14 +1,13 @@
 ---
 id: thanh-ca-tin-lanh-nay-la-truyen-ky-toi-blessed-assurance
 title: NẦY LÀ TRUYỆN KÝ TÔI (Blessed Assurance)
+author: Nguyễn Hữu Thiên Nhân (Sưu Tầm)
 author_title: Fanny Crosby
 tags: [thanh-ca, fanny-crosby]
 ---
 
-# NẦY LÀ TRUYỆN KÝ TÔI 
+# NẦY LÀ TRUYỆN KÝ TÔI (BLESSED ASSURANCE)
 
-* Tên gốc: Blessed Assurance
-* Source: [Blessed Assurance Hymn Story and Lyrics](https://www.christianmusicandhymns.com/2016/08/blessed-assurance.html?m=1)
 
 export const Youtube = () => (<iframe width="560" height="315" src="https://www.youtube.com/embed/fsq5XoksJWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>);
 
@@ -103,3 +102,9 @@ Ca ngợi danh Ngài đến đời đời vô cùng”
 ![NẦY LÀ TRUYỆN KÝ TÔI-3](https://i.imgur.com/S7ayGKb.jpg)
 ![NẦY LÀ TRUYỆN KÝ TÔI-4](https://i.imgur.com/q9pLrRw.jpg)
 ![NẦY LÀ TRUYỆN KÝ TÔI-5](https://i.imgur.com/XoOyxdY.jpg)
+
+
+## SOURCE:
+* [Blessed Assurance Hymn Story and Lyrics](https://www.christianmusicandhymns.com/2016/08/blessed-assurance.html?m=1)
+* Sách "Ngọn lửa thánh nhạc"
+* Sách "Psalter Hymnal Handbook"
