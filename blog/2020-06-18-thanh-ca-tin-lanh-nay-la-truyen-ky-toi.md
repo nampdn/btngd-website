@@ -6,7 +6,7 @@ author: Fanny Crosby
 tags: [thanh-ca, fanny-crosby]
 ---
 
-export const Youtube = () => (<iframe width="560" height="315" src="https://www.youtube.com/embed/SVC89_u2hyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>);
+export const Youtube = () => (<iframe width="100%" height="315" src="https://www.youtube.com/embed/SVC89_u2hyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>);
 
 <Youtube/>
 
