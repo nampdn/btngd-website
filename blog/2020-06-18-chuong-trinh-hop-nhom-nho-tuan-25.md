@@ -1,6 +1,6 @@
 ---
 id: chuong-trinh-hop-nhom-nho-co-doc-tuan-25-2020
-title: Dâng lời ngợi ca - Họp nhóm nhỏ Cơ Đốc (tuần 23 - 2020)
+title: Dâng lời ngợi ca - Họp nhóm nhỏ Cơ Đốc (tuần 25 - 2020)
 author_title: Phan Nguyễn Công Chính
 tags: [nhom-nho, te-bao, hop-nhom, thieu-nien]
 ---
