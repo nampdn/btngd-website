@@ -1,5 +1,5 @@
 ---
-id: thanh-ca-tin-lanh-nay-ngoi-ca-dang-thanh
+id: thanh-ca-tin-lanh-ngoi-ca-dang-thanh
 title: NGỢI CA ĐẤNG THÁNH
 author_title: "Sưu tầm và biên soạn: Nguyễn Hữu Thiên Nhân "
 author: Grace Tseng
