@@ -6,8 +6,6 @@ author: Grace Tseng
 tags: [thanh-ca, grace-tseng]
 ---
 
-# NGỢI CA ĐẤNG THÁNH
-
 export const Youtube = () => (<iframe width="100%" height="315" src="https://www.youtube.com/embed/mABOnus5A3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>);
 
 <Youtube/>
