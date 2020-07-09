@@ -6,8 +6,6 @@ author: Grace Tseng
 tags: [thanh-ca, grace-tseng]
 ---
 
-## Giới thiệu
-
 Bài Thánh ca Ngợi ca Đấng Thánh được sáng tác vào năm 2006 bởi nữ nhạc sĩ *Grace Tseng*. 
 
 *Grace Tseng* là một thành viên trong mục vụ Stream of Praise Music – một nhóm mục vụ hướng đến cộng đồng những người Trung Hoa ở Đài Loan, Hồng Kông và nhiều nơi khác trên thế giới với khải tượng dùng âm nhạc để công bố Phúc âm cho mọi người, đặc biệt là thế hệ trẻ. 
