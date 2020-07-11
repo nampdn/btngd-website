@@ -20,6 +20,27 @@ export const Youtube = () => (<iframe width="100%" height="315" src="https://www
 
 <Youtube/>
 
+## Lyrics
+
+```
+Ngài, Đấng Thánh muôn đời lòng ta hát ca tôn vinh.
+Ngài đã cứu nhân loại bằng Con dấu yêu Giê-xu.
+Ngài, ánh sáng soi rọi dịu êm sớm mai tinh khôi.
+Ngợi thánh Chúa hiển vinh, nước Ngài mau đến.
+
+Ngợi ca Đấng Thánh Giê-hô-va!
+Danh Cha cao hơn các danh trên đất này.
+Ơn Cha sâu rộng vô biên.
+Danh Cha muôn đời vinh hiển.
+Và mọi loài trên đất đến tôn thờ Cha.
+Ngài là ánh dương, ban mai uy linh Ngài hằng toả sáng mãi muôn đời.
+
+Ôi Cha nhân từ vô đối.
+Danh Cha muôn đời vinh hiển.
+Và mọi loài trên đất đến tôn thờ Cha. 
+Ngài là Thánh Linh.
+Ngài là Đấng ban cho bình an.
+```
 
 ## Sheet nhạc: NGỢI CA ĐẤNG THÁNH
 
