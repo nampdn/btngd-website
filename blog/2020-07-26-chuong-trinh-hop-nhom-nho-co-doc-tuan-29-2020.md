@@ -17,12 +17,11 @@ tags: [nhom-nho, te-bao, hop-nhom]
 những lá thăm còn lại: là những con số.
 
 ### 2. Cách chơi: ( chơi 5 lượt)
-- mỗi vòng chơi bốc thăm
-xem ai là người được yêu, những người còn lại sẽ là những lá thăm có số.
+- mỗi vòng chơi bốc thăm xem ai là người được yêu
+- những người còn lại sẽ là những lá thăm có số.
 - lá thăm của người được yêu sẽ yêu cầu lá thăm 1 con số bất kì làm điều gì đó cho mình.
-Lưu ý: những yêu cầu của “người được yêu” là làm tại chỗ, không có quá đáng, quá sức và được các bạn trong nhóm chấp nhận.
-EX: trong nhóm có 5 người, thì 5
-người đều bốc lá thăm, người A sẽ là “người được yêu”, còn người B,C,D,E sẽ là lá thăm có số. Thì khi người A có lá thăm là “người được yêu” thì sẽ chọn 1 con số bất kì mà mình muốn như là người A chọn số 3 yêu cầu là gãi lưng cho mình; thì người B,C,D,E ai có lá thăm số 3 thì sẽ phải làm theo yêu cầu của người A.
+- Lưu ý: những yêu cầu của “người được yêu” là làm tại chỗ, không có quá đáng, quá sức và được các bạn trong nhóm chấp nhận.
+- EX: trong nhóm có 5 người, thì 5 người đều bốc lá thăm, người A sẽ là “người được yêu”, còn người B,C,D,E sẽ là lá thăm có số. Thì khi người A có lá thăm là “người được yêu” thì sẽ chọn 1 con số bất kì mà mình muốn như là người A chọn số 3 yêu cầu là gãi lưng cho mình; thì người B,C,D,E ai có lá thăm số 3 thì sẽ phải làm theo yêu cầu của người A.
 
 ## Tâm tình – 20p
 1. Những điều bạn đã và đang phục vụ Chúa và người khác là gì? 
