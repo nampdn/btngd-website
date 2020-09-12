@@ -22,6 +22,9 @@ tags: [nhom-nho, te-bao, hop-nhom]
 - Câu 5: Bạn thấy mình thường mắc phải điều gì khó làm theo nhất trong việc quản lý mọi thứ mà Chúa đang giao cho bạn?
 
 ### Đúc kết: 
+
+Việc chi tiêu, mua sắm là một khía cạnh nhỏ trong việc quản lý những gì Chúa giao cho mình trong số rất nhiều khía cạnh của cuộc đời, nhưng hôm nay mình chỉ nói đến một khía cạnh nhỏ là việc chi tiêu.
+
 Tất cả mọi thứ mình đang nắm giữ là do Chúa giao cho mình quản lý. Khi ý thức mình là người quản lý, xin Chúa giúp chúng ta có thể quản lý tốt mọi thứ Chúa giao phó.
 
 ## Phần 2:
