@@ -23,7 +23,7 @@ tags: [nhom-nho, te-bao, hop-nhom]
 ## Phần 2:
 - Mỗi bạn ghi ra 10 từ khóa (tối đa 2 từ/từ khóa) lên ghi chú của điện thoại, diễn tả về tính cách, sở thích, điều đeo đuổi, lĩnh vực đang chiến đấu của bản thân...
 - Sau khi ghi xong lần lượt đọc lên cho cả nhóm nghe.
-- Cả nhóm sẽ bắt buộc phải đặt tối đa 2 câu hỏi cho bạn đó, sau đó bạn đó sẽ mời bạn khác đọc từ khóa của mình.
+- Cả nhóm sẽ bắt buộc phải đặt tối thiểu 2 câu hỏi cho bạn đó dựa trên những từ khóa đã đọc, sau đó bạn đó sẽ mời bạn khác đọc từ khóa của mình.
 ## Phần 3: Cầu nguyện
 - Chia ra mỗi tiểu đội 3 người chia sẻ riêng tư và cầu nguyện.
 - Ngòi nổ chia sẻ: "Nếu chỉ có thể học thêm duy nhất 1 điều, bạn sẽ học thêm một điều gì trong năm mới này?"
