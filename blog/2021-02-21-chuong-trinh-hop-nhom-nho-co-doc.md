@@ -1,6 +1,6 @@
 ---
 id: chuong-trinh-hop-nhom-nho-co-doc-2020-02-21
-title: Họp nhóm nhỏ 31/01
+title: Họp nhóm nhỏ 21/02
 tags: [nhom-nho, te-bao, hop-nhom]
 ---
 
